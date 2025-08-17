@@ -1,0 +1,6 @@
+[submodule "QLLM"]
+	path = QLLM
+	url = https://github.com/che-yjwj/QLLM.git
+[submodule "VPTQ"]
+	path = VPTQ
+	url = https://github.com/che-yjwj/VPTQ.git
